@@ -560,7 +560,7 @@
 .feathericon-phone:before {
   content: "\e9b2";
 }
-.feathericon-phone-call:before {
+.feathericon-phone-tel:before {
   content: "\e9b3";
 }
 .feathericon-phone-forwarded:before {
