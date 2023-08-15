@@ -90,6 +90,9 @@ html {
   box-sizing: border-box;
 }
 
+.pe-progress {
+  cursor: progress;
+}
 body, html {
   font-size: 1rem;
   -webkit-text-size-adjust: 100%;
@@ -1447,7 +1450,7 @@ h3.go > i{
 @media only screen and (max-width: 580px) {
   .nav-container {
     border-radius: var(--radius-12) var(--radius-12) 0 0;
-    height: 3rem;
+    height: 3.5rem;
     padding-right: 1rem;
     padding-left: 1rem;
   }
